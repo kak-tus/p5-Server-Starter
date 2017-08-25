@@ -9,6 +9,7 @@ use strict;
 use warnings;
 use utf8;
 
+use lib '.';
 use builder::MyBuilder;
 use File::Basename;
 use File::Spec;
